@@ -18,5 +18,5 @@ What I want to accomplish here is something like this:
 
 https://llm-examples.streamlit.app/
 
-Maybe I'll use its repository as a guide.
+Maybe I'll use its repository as a [guide](https://github.com/streamlit/llm-examples/blob/main/Chatbot.py).
 
